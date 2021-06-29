@@ -1,7 +1,14 @@
 <h1 align="center">Bonjour 👋, I'm Deepesh</h1>
 <h3 align="center">I'm a self-taught Full Stack Developer!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepeshdragoneel" alt="deepeshdragoneel" /></a> </p>
+<br/>
+
+<a href="https://github.com/deepeshdragoneel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepeshdragoneel&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshdragoneel&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
