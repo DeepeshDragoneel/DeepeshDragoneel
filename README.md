@@ -1,5 +1,6 @@
 <h1 align="center">Bonjour 👋, I'm Deepesh</h1>
 <h3 align="center">I'm a self-taught Full Stack Developer and ML Developer 🤖, I love solving problems and exploring new Technologies!!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshdragoneel&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshdragoneel" /> </p>
 
 ## ABOUT ME!!
 
@@ -28,7 +29,7 @@
 
 <br/>
 
-<a href="https://github.com/akshaymurari">
+<a href="https://github.com/deepeshdragoneel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepeshdragoneel&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshdragoneel&theme=buefy&layout=compact" />
 </a>
